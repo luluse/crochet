@@ -3,7 +3,7 @@ React Hooks
 
 - Use State
 - Use Effect
-
+- Use Context and useReducer
 
 ## Available Scripts
 
