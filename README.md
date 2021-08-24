@@ -4,6 +4,7 @@ React Hooks
 - Use State
 - Use Effect
 - Use Context and useReducer
+- UseMemo and useRef
 
 ## Available Scripts
 
